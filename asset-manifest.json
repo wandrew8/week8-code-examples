@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/week8-code-examples/static/css/main.5f361e03.chunk.css",
+    "main.js": "/week8-code-examples/static/js/main.f33982ae.chunk.js",
+    "main.js.map": "/week8-code-examples/static/js/main.f33982ae.chunk.js.map",
+    "runtime-main.js": "/week8-code-examples/static/js/runtime-main.f8655dbc.js",
+    "runtime-main.js.map": "/week8-code-examples/static/js/runtime-main.f8655dbc.js.map",
+    "static/js/2.8f4ea140.chunk.js": "/week8-code-examples/static/js/2.8f4ea140.chunk.js",
+    "static/js/2.8f4ea140.chunk.js.map": "/week8-code-examples/static/js/2.8f4ea140.chunk.js.map",
+    "index.html": "/week8-code-examples/index.html",
+    "precache-manifest.28e351191e5fe4b9b8df1a5ade6a1756.js": "/week8-code-examples/precache-manifest.28e351191e5fe4b9b8df1a5ade6a1756.js",
+    "service-worker.js": "/week8-code-examples/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/week8-code-examples/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8f4ea140.chunk.js.LICENSE.txt": "/week8-code-examples/static/js/2.8f4ea140.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8655dbc.js",
+    "static/js/2.8f4ea140.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f33982ae.chunk.js"
+  ]
+}
